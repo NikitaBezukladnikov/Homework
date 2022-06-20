@@ -16,5 +16,6 @@ body {
 
 .img {
     border: double 10px #9ad8ff;
-    padding: 0px;
+    padding: 100px;
+    width: 80%;
 }
