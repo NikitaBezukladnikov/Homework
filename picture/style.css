@@ -1,14 +1,14 @@
 body {
-    background-color: #dba595;
+    background-color: #c795db;
     padding: 10px;
     padding-left: 450px;
     padding-top: 40px;
 }
 
 .Text {
-    border-bottom: solid 5px #9ad3ff;
-    border-left: solid 5px #9adaff;
-    background-color: #b2eeff;
+    border-bottom: solid 5px #9aa2ff;
+    border-left: solid 5px #9aa1ff;
+    background-color: #c7b2ff;
     color: #8381f8;
     width: 90%;
     padding: 10px;
