@@ -16,11 +16,11 @@ table {
 }
 
 .mon-radius {
-    border-radius: 10px 0px 0px 0;
+    border-radius: 20px 0px 0px 0;
 }
 
 .sun-radius {
-    border-radius: 0px 10px 0px 0;
+    border-radius: 0px 20px 0px 0;
 }
 
 th {
@@ -77,17 +77,17 @@ td {
 }
 
 .green-color {
-    background-color: #59ffff;
+    background-color: #b2ffff;
 }
 
 .salmon-color {
-    background-color: #e14a4a;
+    background-color: #ef7979;
 }
 
 .blue-color {
-    background-color: #8589ff;
+    background-color: #aeb0fb;
 }
 
 .pink-color {
-    background-color: #ad4f9f;
+    background-color: #d47bc6;
 }
