@@ -5,10 +5,10 @@
 }
 
 .night__city-pic {
-    height: 60vh;
+    height: 70vh;
     width: 2500px;
     object-fit: cover;
-    transition: 1s all linear;
+    transition: 4s all linear;
 }
 
 .night__city-pic:hover {
