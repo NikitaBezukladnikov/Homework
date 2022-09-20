@@ -1,93 +1,72 @@
 body {
-    background-color: #858585;
+    background-color: rgb(199, 247, 255);
 }
 
-table {
-    width: 100%;
-    border-radius: 10px;
-    letter-spacing: 1px;
-    color: white;
-    font-family: Arial, Helvetica, sans-serif;
+.under {
+    text-decoration: underline;
 }
 
-.number {
-    display: block;
-    margin-bottom: 10px;
+p {
+    padding-left: 10px;
 }
 
-.mon-radius {
-    border-radius: 20px 0px 0px 0;
+h3 {
+    padding-left: 10px;
 }
 
-.sun-radius {
-    border-radius: 0px 20px 0px 0;
+h3:target {
+    text-decoration: underline;
+    font-style: italic;
 }
 
-th {
-    text-transform: uppercase;
-    background-color: #333333;
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    color: grey;
+}
+
+.links {
+    display: inline-block;
+    background-color: white;
+    height: 145px;
+    width: 170px;
+    border: solid 1px;
+}
+
+.backgorund-links {
+    background-color: grey;
     padding: 10px;
+    border-radius: 15px;
+    display: inline-block;
+    border: solid 1px;
 }
 
-th, td {
-    width: 12%;
+.articles {
+    display: inline-block;
+    background-color: rgb(180, 180, 180);
+    height: 170px;
+    width: 210px;
+    margin: 5px;
 }
 
-td {
-    padding: 10px;
+.backgorund-art {
+    background-color: white;
+    padding: 5px;
+    border-radius: 5px;
+    display: inline-block;
 }
 
-td {
-    padding: 10px;
-    vertical-align: top;
-}
-
-.calendar {
-    height: 150px;
-    background-color: #515151;
-}
-
-.single-day {
-    text-align: center;
-}
-
-.event-start {
-    margin-right: -20px;
-}
-
-.event-middle {
-    margin-left: -20px;
-    margin-right: -20px;
-    text-align: center;
-}
-
-.event-end {
-    margin-left: -60px;
-}
-
-.event {
-    color: #4c4c4c;
-    display: block;
-    margin-top: 6px;
-    margin-bottom: 6px;
-    height: 18px;
-    padding-top: 1px;
-    padding-bottom: 1px;
-    border-radius: 10px;
-}
-
-.green-color {
-    background-color: #22d7ff;
-}
-
-.salmon-color {
-    background-color: #f83838;
-}
-
-.blue-color {
-    background-color: #565bf4;
-}
-
-.pink-color {
-    background-color: #fc4ae1;
+.backgorund-art2 {
+    background-color: grey;
+    padding: 3px;
+    margin-top: 5px;
+    border-radius: 5px;
+    display: inline-block;
 }
