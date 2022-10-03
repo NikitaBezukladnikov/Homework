@@ -29,14 +29,14 @@ a:hover {
 }
 
 a:active {
-    color: grey;
+    color: rgb(175, 175, 175);
 }
 
 .links {
     display: inline-block;
     background-color: white;
-    height: 170px;
-    width: 170px;
+    height: 200px;
+    width: 200px;
     border: solid 3px;
 }
 
@@ -51,7 +51,7 @@ a:active {
 .articles {
     display: inline-block;
     background-color: rgb(180, 180, 180);
-    height: 170px;
+    height: 210px;
     width: 210px;
     margin: 5px;
 }
@@ -65,7 +65,7 @@ a:active {
 
 .backgorund-art2 {
     background-color: grey;
-    padding: 3px;
+    padding: 5px;
     margin-top: 5px;
     border-radius: 5px;
     display: inline-block;
